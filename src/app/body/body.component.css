@@ -1,0 +1,16 @@
+p {
+    font-family: Lato;
+  }
+  .container {
+    /* background-image: url("/assets/images/background.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
+
+button {
+    cursor: pointer;
+}
+.mat-tab-label .mat-tab-label-content {
+    color:aquamarine
+}
